@@ -1,0 +1,3 @@
+# Docusaurus Azure Static Web Apps With SSO Template
+
+Instructions on the way...
